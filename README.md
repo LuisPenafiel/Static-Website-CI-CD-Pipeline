@@ -1,4 +1,4 @@
-Mi-pagina-web-actions
+Static-Website-CI-CD-Pipeline
 
 ## 🚀 Overview: Static Website with CI/CD Pipeline
 
@@ -13,14 +13,14 @@ This project is a simple static website built with HTML, featuring an automated 
 ## 🌐 Demo
 
 Access the deployed site:\
-https://LuisPenafiel.github.io/mi-pagina-web-actions
+https://LuisPenafiel.github.io/Static-Website-CI-CD-Pipeline
 
 ## 🛠️ How to Use
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/LuisPenafiel/mi-pagina-web-actions.git
+   git clone https://github.com/LuisPenafiel/Static-Website-CI-CD-Pipeline.git
    ```
 
 2. **Modify the site**:
@@ -56,7 +56,7 @@ This project includes several GitHub Actions workflows to automate common DevOps
 ## 📁 Project Structure
 
 ```
-mi-pagina-web-actions/
+Static-Website-CI-CD-Pipeline/
 ├── .github/
 │   └── workflows/
 │       ├── ci-cd.yml         # Deployment pipeline
